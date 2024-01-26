@@ -8,4 +8,9 @@
 ##  📚[Episode - 02 : Igniting our App](./Episode%20-%2002%20Igniting%20our%20App) 
 - 💻 [Files](./Episode%20-%2002%20Igniting%20our%20App/Files)
 - 📖 [Assignment](./Episode%20-%2002%20Igniting%20our%20App/Assignment.md)
-- 📝 [Homework](./Episode%20-%2002%20Igniting%20our%20App/Homework.md))
+- 📝 [Homework](./Episode%20-%2002%20Igniting%20our%20App/Homework.md)
+
+## 📚[Episode - 03 : Laying the Foundation](./Episode%20-%2003%20Laying%20the%20Foundation)
+- 💻 [Files](./Episode%20-%2003%20Laying%20the%20Foundation/Files)
+- 📖 [Assignment](./Episode%20-%2003%20Laying%20the%20Foundation/Assignment.md)
+- 📝 [Homework](./Episode%20-%2003%20Laying%20the%20Foundation/Homework.md)
