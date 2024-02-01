@@ -1,4 +1,4 @@
-# Episode - 03 Laying the Foundation
+# Episode - 03 | Laying the Foundation
 
 ## Q: What is `JSX`?
 A: `JSX` stands for JavaScript XML. It is a syntax extension of JavaScript that allows us to write HTML-like code in JavaScript. This makes it easy to write and add HTML in React applications. JSX allows us to write HTML leemnts in JavaScript and place them in the DOM without any createElement() and/or appendChild() methods. JSX converts HTML tags to React elements.

@@ -1,4 +1,4 @@
-# Episode - 02 Igniting our App
+# Episode - 02 | Igniting our App
 
 ## Q: What is `npm`?
 A: NPM is the world's largest Software Registry. It is the default package manager for JavaScript's runtime Node.js. NPM consists of two main parts: a CLI tool for publishing and downloading packages, and an online repository that hosts JavaScript packages.

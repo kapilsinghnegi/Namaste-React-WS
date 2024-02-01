@@ -1,4 +1,4 @@
-# Episode 01 - Inception
+# Episode - 01 | Inception
 
 ## Q: What is `Emmet`? 
 A: `Emmet` is an essential development tool that helps you quickly `create repetitive structures` like lists, tables, or ordered table with minimal typing.
