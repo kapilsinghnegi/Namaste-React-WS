@@ -51,7 +51,7 @@
   cursor: pointer;
 } */
 
-.restaurant-container {
+.res-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -59,18 +59,18 @@
   gap: 10px;
 }
 
-.restaurant-card {
+.res-card {
   padding: 5px;
   width: 200px;
   margin: 10px;
   border: 1px solid transparent;
 }
 
-.restaurant-card:hover {
+.res-card:hover {
   box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
   cursor: pointer;
 }
 
-.restaurant-img {
+.res-img {
   width: 100%;
 }
