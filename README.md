@@ -19,3 +19,8 @@
 - 💻 [Files](./Episode%20-%2004%20Talk%20is%20cheap,%20show%20me%20the%20code/Files)
 - 📖 [Assignment](./Episode%20-%2004%20Talk%20is%20cheap,%20show%20me%20the%20code/Assignment.md)
 - 📝 [Homework](./Episode%20-%2004%20Talk%20is%20cheap,%20show%20me%20the%20code/Homework.md)
+
+## 📚[Episode - 05 | Let's get Hooked](./Episode%20-%2005%20Let's%20get%20Hooked)
+- 💻 [Files](./Episode%20-%2005%20Let's%20get%20Hooked/Files)
+- 📖 [Assignment](./Episode%20-%2005%20Let's%20get%20Hooked/Assignment.md)
+- 📝 [Homework](./Episode%20-%2005%20Let's%20get%20Hooked/Homework.md)
