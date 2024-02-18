@@ -24,3 +24,8 @@
 - 💻 [Code](./Episode%20-%2005%20Let's%20get%20Hooked/Coding)
 - 📖 [Assignment](./Episode%20-%2005%20Let's%20get%20Hooked/Assignment.md)
 - 📝 [Homework](./Episode%20-%2005%20Let's%20get%20Hooked/Theory/Homework.md)
+
+## 📚[Episode - 06 | Exploring the world](./Episode%20-%2006%20Exploring%20the%20world)
+- 💻 [Code](./Episode%20-%2006%20Exploring%20the%20world/Coding)
+- 📖 [Assignment](./Episode%20-%2006%20Exploring%20the%20world/Assignment.md)
+- 📝 [Homework](./Episode%20-%2006%20Exploring%20the%20world/Theory/Homework.md)
