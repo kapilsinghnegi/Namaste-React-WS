@@ -87,3 +87,8 @@
   border: 1px solid #f0f0f0;
   animation: shimmer 1s infinite;
 }
+
+.login{
+  padding: 0 20px;
+  cursor: pointer;
+}
